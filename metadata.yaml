@@ -1,0 +1,25 @@
+_repo: Poems-New-and-Old_12026
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, John
+    birthdate: 1880
+    deathdate: 1929
+    gutenberg_agent_id: '4708'
+    url: http://www.gutenberg.org/2009/agents/4708
+    wikipedia: http://en.wikipedia.org/wiki/John_Freeman_(Georgian_poet)
+description: Cover -- Contents.
+gutenberg_issued: '2004-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+title: Poems New and Old
+url: http://www.gutenberg.org/ebooks/12026
