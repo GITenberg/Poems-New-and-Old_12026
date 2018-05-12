@@ -1,5 +1,8 @@
 _repo: Poems-New-and-Old_12026
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Freeman, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4708
     wikipedia: http://en.wikipedia.org/wiki/John_Freeman_(Georgian_poet)
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12026#Poems-New-and-Old
 gutenberg_issued: '2004-07-15'
 gutenberg_type: Text
 identifiers:
